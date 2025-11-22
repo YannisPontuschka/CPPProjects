@@ -3,7 +3,6 @@
 #include <string>
 
 using namespace std;
-
 vector<vector<char>> tabuleiro = {{'1', '2', '3'},
                                   {'4', '5', '6'},
                                   {'7', '8', '9'}};
@@ -97,7 +96,7 @@ int main()
         if (jogadas == 9)
         {
             desenha_tabuleiro();
-            cout << "🤝 DEU VELHA! O jogo empatou.\n";
+            cout << "DEU VELHA! O jogo empatou.\n";
             fim_de_jogo = true;
             break;
         }
