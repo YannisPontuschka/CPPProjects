@@ -3,6 +3,7 @@
 Este repositório contém uma coleção de projetos desenvolvidos em C e C++
 
 ### Jogo da Velha (`tic-tac-toe/`)
+Jogo da velha de terminal com dois jogadores locais
 
 ### Calculadora (`calculator/`)
 Calculadora de terminal que comporta operações matemáticas, e conversão entre bases númericas.
