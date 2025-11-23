@@ -2,7 +2,10 @@
 
 Este repositório contém uma coleção de projetos desenvolvidos em C e C++
 
-### Jogo da Velha (`jogo_da_velha/`)
+### Jogo da Velha (`tic-tac-toe/`)
+
+### Calculadora (`calculator/`)
+Calculadora de terminal que comporta operações matemáticas, e conversão entre bases númericas.
 
 ### Programação Orientada a Aspectos (`AOP/`/) 
 Demonstração do **Paradigma de Programação Orientada a Aspectos (AOP)** em C++, utilizando uma hierarquia de classes que representam diferentes tipos de contas bancárias.

@@ -1,0 +1,22 @@
+# Executáveis
+*.exe
+*.out
+*.o
+a.out
+
+# Executáveis específicos dos projetos
+tic-tac-toe/tic-tac-toe
+calculator/calculator
+
+# Arquivos de debug
+*.dSYM/
+*.su
+*.idb
+*.pdb
+
+# Arquivos temporários
+*~
+*.swp
+*.swo
+.DS_Store
+
